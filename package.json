@@ -21,7 +21,8 @@
   },
   "homepage": "https://github.com/breeze-yang/simditor-video#readme",
   "dependencies": {
-    "simditor": "^2.3.6"
+    "jquery": "2.x",
+    "simditor": "2.3.x"
   },
   "devDependencies": {
     "grunt": "^1.0.2",
