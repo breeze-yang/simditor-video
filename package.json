@@ -1,0 +1,31 @@
+{
+  "name": "simditor-video",
+  "version": "1.0.0",
+  "description": "The video extension for Simditor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/breeze-yang/simditor-video.git"
+  },
+  "keywords": [
+    "Simditor",
+    "Video"
+  ],
+  "author": "breeze-yang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/breeze-yang/simditor-video/issues"
+  },
+  "homepage": "https://github.com/breeze-yang/simditor-video#readme",
+  "dependencies": {
+    "simditor": "^2.3.6"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.2",
+    "grunt-contrib-coffee": "^2.0.0",
+    "grunt-contrib-sass": "^1.0.0"
+  }
+}

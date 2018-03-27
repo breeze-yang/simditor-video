@@ -1,0 +1,29 @@
+{
+  "name": "simditor-video",
+  "version": "1.0.0",
+  "description": "The video extension for Simditor",
+  "main": "index.js",
+  "authors": [
+    "breeze-yang"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "Simditor",
+    "Video"
+  ],
+  "homepage": "https://github.com/breeze-yang/simditor-video",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor",
+    "Gemfile",
+    "Gemfile.lock",
+    "Gruntfile.coffee",
+    "package.json"
+  ],
+  "dependencies": {
+    "jquery": "2.x",
+    "simditor": "2.3.x"
+  }
+}
