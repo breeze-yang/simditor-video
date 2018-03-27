@@ -1,5 +1,5 @@
 {
-  "name": "simditor-video",
+  "name": "simditor-video-tag",
   "version": "1.0.0",
   "description": "The video extension for Simditor",
   "main": "index.js",
